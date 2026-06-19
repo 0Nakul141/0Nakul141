@@ -276,7 +276,7 @@ Building educational technology projects, exploring machine learning, and develo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NakulGit/NakulGit/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/0Nakul141/0Nakul141/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
